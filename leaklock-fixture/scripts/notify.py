@@ -1,0 +1,2 @@
+GITHUB_FINE_GRAINED = "github_pat_11ABCDEFG0aBcDeFgHiJkL_mNoPqRsTuVwXyZ0123456789AbCdEfGhIjKlMnOpQrSt"
+JWT = "*****
