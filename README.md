@@ -89,3 +89,10 @@ history — never touches the branch that explains what this repository is.
 ## Licence
 
 MIT. Do what you like with it.
+
+
+## Clone traffic
+
+![Clone traffic](https://raw.githubusercontent.com/nikolareljin/stats/main/charts/damn-vulnerable-repo.svg)
+
+_Updated daily. Total and unique cloners over the last 14 days._
