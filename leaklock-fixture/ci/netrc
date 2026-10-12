@@ -1,0 +1,3 @@
+machine artifacts.internal-corp-7.example
+  login builduser
+  password BuildPass-NotReal
