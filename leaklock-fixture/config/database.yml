@@ -1,0 +1,4 @@
+production:
+  url: "mysql://root:r00tpass-NotReal@mysql.internal-corp-7.example:3306/legacy"
+legacy:
+  url: "mongodb://svc_user:M0ngoPass-NotReal@db.internal-corp-7.example:27017/reports"
